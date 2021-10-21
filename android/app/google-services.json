@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483705959992",
+    "project_id": "controle-de-estoque-d560e",
+    "storage_bucket": "controle-de-estoque-d560e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483705959992:android:62316a45d92ada7e6c98cd",
+        "android_client_info": {
+          "package_name": "com.example.estoque_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483705959992-ien51n5n7ef0g2u0ensak3f44a07guuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_lZldRR-MgEMp6yT_ihUnGxspxetOS6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483705959992-ien51n5n7ef0g2u0ensak3f44a07guuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
